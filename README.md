@@ -15,6 +15,12 @@ You can find the lexicon online *here*
 
 ## Contributing to the Lexicon
 
+We encourage open participation in the creation of this Lexicon. 
+In person attendees at FACCT 2022, virtual attendees FACCT, and interested members of community are all welcomed to contribute.
+See our `Contributing Guide` and our `Code of Conduct` for full details on how to get involved.
+
+### Installation
+
 This lexicon is built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). 
 
 To install `jupyter-book` using `pip`:
