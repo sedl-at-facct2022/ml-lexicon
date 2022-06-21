@@ -34,6 +34,11 @@ How does your community or the communities you work with determine if a model is
 
 - In machine learning, bias may not be about the fidelity of the underlying data. Additionally, the impact of the models must be considered.
 
+### Model bias
+
+- Machine learning models can also amplify and worsen any biases that already exist in the data
+
+- Even if bias doesn't exist in the data (as usually defined, e.g. group imbalance), there is some evidence to suggest that models can create bias that wasn't previously there
 
 ```{note}
 What are the sources of bias in your community?
