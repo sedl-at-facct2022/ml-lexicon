@@ -23,7 +23,13 @@ See our `Contributing Guide` and our `Code of Conduct` for full details on how t
 
 This lexicon is built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). 
 
-To install `jupyter-book` using `pip`:
+You can use our `environment.yml`.
+
+```
+conda env create -f environment.yml
+```
+
+Alternatively, to install `jupyter-book` using `pip`:
 
 ```
 pip install -U jupyter-book
