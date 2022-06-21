@@ -1,4 +1,7 @@
 name: ml-lexicon
 
+channels:
+  - conda-forge
+
 dependencies:
   - jupyter-book
