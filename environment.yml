@@ -5,3 +5,4 @@ channels:
 
 dependencies:
   - jupyter-book
+  - ghp-import
