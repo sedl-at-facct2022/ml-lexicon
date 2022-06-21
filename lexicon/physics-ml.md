@@ -24,6 +24,8 @@ How does your community or the communities you work with define and attribute un
 
 - In machine learning, we focus on models that can parameterize representation and decisions into physical observables
 
+- In psychology, models should first and foremost contribute towards an understanding of *why* human behavior occurs. Interpretability is thus much more valuable than predictive power.
+
 ```{note}
 How does your community or the communities you work with determine if a model is useful?  What is the role of interpretability and explainability in your community?
 ```
@@ -34,6 +36,7 @@ How does your community or the communities you work with determine if a model is
 
 - In machine learning, bias may not be about the fidelity of the underlying data. Additionally, the impact of the models must be considered.
 
+- In psychology, sources of bias include the represesentativeness of the sample (w.r.t. the population in the research question), cognitive biases on the side of the participant (e.g., social desirability bias) as well as the researcher (e.g., anchoring effect when rating participants), and data processing (e.g., how psychometric variables are aggregated), data analysis (e.g., choosing the right hypothesis test), and other research practices (e.g., hypothesizing after the results are known).
 
 ```{note}
 What are the sources of bias in your community?
