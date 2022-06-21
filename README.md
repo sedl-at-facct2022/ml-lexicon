@@ -70,7 +70,7 @@ chapters:
 - file: your-topic-here
 ```
 
-6. Make a pull request with your changes to `lexicon/`
+6. Make a [pull request](https://github.com/sedl-at-facct2022/ml-lexicon/pulls) with your changes to `lexicon/`
 
 ## Code of Conduct
 
