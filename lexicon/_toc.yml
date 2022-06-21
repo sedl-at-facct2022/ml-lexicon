@@ -4,6 +4,7 @@
 format: jb-book
 root: intro
 chapters:
+- file: authors
 - file: lexicon-reference
 - file: physics-ml
 - file: policy-ai

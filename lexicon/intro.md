@@ -16,5 +16,9 @@ Topics of interest include:
 
 We will include a discussion of related references.
 
+### Authors
+
+This is a SEDL @ FACCT 2022 community built lexicon.  Authors are encouraged to add their names to the list of authors on the pages they have contributed to and to the authors page {doc}`authors`.
+
 ```{tableofcontents}
 ```
