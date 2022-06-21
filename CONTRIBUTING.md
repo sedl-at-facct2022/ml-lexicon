@@ -7,7 +7,9 @@ In person attendees at [FACCT 2022](https://facctconference.org/), virtual atten
 
 This lexicon is built using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).  To install, you can use our `environment.yml`.
 
-`conda env create -f environment.yml`
+```
+conda env create -f environment.yml
+```
 
 Alternatively you can install `jupyter-book` with `conda` or `pip`
 
