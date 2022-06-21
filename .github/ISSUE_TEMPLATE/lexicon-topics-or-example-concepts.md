@@ -1,5 +1,5 @@
 ---
-name: Lexicon Topic
+name: Lexicon Topics or Example Concepts
 about: Suggest a topic for the lexicon
 title: ''
 labels: ''
