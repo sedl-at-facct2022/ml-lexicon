@@ -4,7 +4,11 @@ This Lexicon Topic is inspired by the concepts discussed in the talk by [Andi Pe
 
 What members of other communities need to know to do *their job* can focus how researchers *translate* details and *distill* them into high level points.
 
-Please add to these defintions with how your community may have differing defitions of these concepts.
+
+```{note}
+Please add to these defintions with how your community may have differing goals and defitions of concepts.
+```
+
 
 ### What is Artificial Intellgence?
 
