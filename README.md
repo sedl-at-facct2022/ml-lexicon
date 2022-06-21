@@ -11,7 +11,7 @@ This project, in conjunction with [Communication Across Communities in Machine L
 
 ## The Lexicon
 
-You can find the lexicon online *here*
+You can find the lexicon online [*here*](https://sedl-at-facct2022.github.io/ml-lexicon/intro.html)
 
 ## Contributing to the Lexicon
 
@@ -40,6 +40,37 @@ To install `jupyter-book` using `conda`:
 ```
 conda install -c conda-forge jupyter-book
 ```
+
+## Buiding a New Lexicon Entry
+
+1. [Create an Issue](https://github.com/sedl-at-facct2022/ml-lexicon/issues/new/choose) and describe the topic you would like to add to the lexicon.
+
+2. [Fork the repo](https://github.com/sedl-at-facct2022/ml-lexicon/fork)
+
+3. [Modify the Reference Template](https://github.com/sedl-at-facct2022/ml-lexicon/blob/main/lexicon/lexicon-reference.md) An example entry in markdown can be written as:
+
+```
+# Topic Title
+
+### Entry name 1:
+
+Entry description
+
+### Entry name 2:
+
+Entry description
+```
+
+4. Rename [`lexicon/lexicon-reference.md`] with the name of your topic.
+
+5. Update `lexicon/_toc.yml` to include your topic markdown file:
+
+```
+chapters:
+- file: your-topic-here
+```
+
+6. Make a pull request with your changes to `lexicon/`
 
 ## Code of Conduct
 
