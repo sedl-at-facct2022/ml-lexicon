@@ -2,6 +2,8 @@
 
 This Lexicon Topic is inspired by the concepts discussed in the talk by [Andi Peng](https://andipeng.com/).
 
+What members of other communities need to know to do *their job* can focus how researchers *translate* details and *distill* them into high level points.
+
 Please add to these defintions with how your community may have differing defitions of these concepts.
 
 ### What is Artificial Intellgence?
@@ -12,17 +14,29 @@ The technical literacy gap is a meaningful challenge between communities.
 
 - To policy makers, AI can appear to be magic. 
 
+```{note}
+How do members of your community or communities you work with understand AI?
+```
+
 ### How do terms relate to each other?
 
 - To AI researchers, concepts are clearly defined and organized.
 
 - To policy makers, separation between concepts can be unclear.
 
+```{note}
+How do members of your community or communities define and deliniate between concepts?
+```
+
 ### Specialization/Generalization
 
 - Specialists care about the details of a specific problem.  AI researchers are specialists.
 
 - Generalists care about big-picture ideas and impact. Policy makers are genearlists.
+
+```{note}
+How do members of your community or communities emphasize specialization and genearlization?
+```
 
 ## Normative/Positive Use of AI
 
@@ -39,6 +53,10 @@ The technical literacy gap is a meaningful challenge between communities.
     - What does AI do poorly?
 
 Policiy makers tend to focus on normative questions, while AI researchers tend to focus on positive questions.
+
+```{note}
+What positive and nomative questions are important to your community and the communties you work with?
+```
 
 ### Differences in Question Formulation
 
@@ -60,6 +78,6 @@ May translate to:
 
 > Can we treat this model like a human?
 
-### Communication Across Communities
-
-What members of other communities need to know to do *their job* can focus how researchers *translate* details and *distill* them into high level points.
+```{note}
+How do technical questions in AI translate to your community or communities you collaborate with?
+```
