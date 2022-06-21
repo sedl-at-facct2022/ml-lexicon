@@ -1,0 +1,4 @@
+name: ml-lexicon
+
+dependencies:
+  - jupyter-book
